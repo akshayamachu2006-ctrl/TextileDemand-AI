@@ -1,0 +1,12 @@
+Resource,Quantity,Responsibility / Purpose
+Project Coordinator,1,Project planning and coordination
+Data Scientist,1,Data analysis and ML development
+Data Analyst,1,Data cleaning and visualization
+Python Developer,1,Application development
+Project Reviewer,1,Testing and quality assurance
+Python,-,Programming language
+Pandas and NumPy,-,Data processing
+Scikit-learn,-,Machine learning
+Streamlit,-,Dashboard development
+VS Code,-,Development environment
+Computer / Laptop,1,Development and testing

@@ -1,0 +1,8 @@
+Risk_ID,Risk,Probability,Impact,Mitigation,Contingency
+R01,Missing or incomplete sales data,High,High,Validate datasets and handle missing values,Use an alternative verified dataset
+R02,Insufficient historical data,Medium,High,Check data coverage before model development,Use a suitable baseline forecasting method
+R03,Low model prediction accuracy,Medium,High,Compare multiple models and tune parameters,Revisit features and forecasting approach
+R04,Project schedule delays,Medium,Medium,Track milestones and review progress weekly,Reallocate resources and revise deadlines
+R05,Technical or software failures,Medium,Medium,Test code regularly and maintain backups,Restore backup and use an alternative environment
+R06,Data privacy or security issues,Low,High,Use authorised datasets and restrict access,Stop affected processing and follow incident procedures
+R07,Resource or team availability issues,Medium,Medium,Assign backup responsibilities and plan workloads,Redistribute tasks among available team members
