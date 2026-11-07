@@ -1,0 +1,9 @@
+Phase,Activities,Python_Technology,Expected_Output
+1. Project Planning,"Define objectives, scope, milestones and resources",Python project environment,Project plan
+2. Data Acquisition,Identify and collect historical textile sales data,"Pandas, CSV",Raw sales dataset
+3. Data Preprocessing,"Handle missing values, duplicates and inconsistent records","Pandas, NumPy",Clean dataset
+4. Exploratory Data Analysis,Analyse sales patterns and visualize trends,"Pandas, Matplotlib, Plotly",Sales analysis report
+5. Model Development,Select and train suitable forecasting algorithms,Scikit-learn,Trained forecasting model
+6. Model Evaluation,Evaluate predictions using suitable metrics,"Scikit-learn, NumPy",Model evaluation report
+7. Testing and Deployment Planning,Test model outputs and plan application deployment,"Python, Streamlit",Tested prototype
+8. Final Review,Review outcomes and document recommendations,"Pandas, Matplotlib",Final project report
