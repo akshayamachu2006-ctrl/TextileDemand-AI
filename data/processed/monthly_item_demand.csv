@@ -1,0 +1,604 @@
+Year_Month,Item Purchased,Purchase Count
+2022-10,Backpack,9
+2022-10,Belt,8
+2022-10,Blazer,12
+2022-10,Blouse,6
+2022-10,Boots,5
+2022-10,Bowtie,3
+2022-10,Camisole,5
+2022-10,Cardigan,5
+2022-10,Coat,5
+2022-10,Dress,6
+2022-10,Flannel Shirt,4
+2022-10,Flip-Flops,11
+2022-10,Gloves,5
+2022-10,Handbag,5
+2022-10,Hat,5
+2022-10,Hoodie,8
+2022-10,Jacket,6
+2022-10,Jeans,3
+2022-10,Jumpsuit,7
+2022-10,Kimono,5
+2022-10,Leggings,5
+2022-10,Loafers,5
+2022-10,Onesie,9
+2022-10,Overalls,4
+2022-10,Pajamas,8
+2022-10,Pants,9
+2022-10,Polo Shirt,5
+2022-10,Poncho,4
+2022-10,Raincoat,8
+2022-10,Romper,5
+2022-10,Sandals,5
+2022-10,Scarf,2
+2022-10,Shorts,9
+2022-10,Skirt,8
+2022-10,Slippers,5
+2022-10,Sneakers,7
+2022-10,Socks,8
+2022-10,Sun Hat,5
+2022-10,Sunglasses,7
+2022-10,Sweater,2
+2022-10,Swimsuit,5
+2022-10,T-shirt,8
+2022-10,Tank Top,10
+2022-10,Tie,4
+2022-10,Trench Coat,8
+2022-10,Trousers,6
+2022-10,Tunic,4
+2022-10,Umbrella,6
+2022-10,Vest,8
+2022-10,Wallet,7
+2022-11,Backpack,3
+2022-11,Belt,4
+2022-11,Blazer,8
+2022-11,Blouse,3
+2022-11,Boots,6
+2022-11,Bowtie,7
+2022-11,Camisole,6
+2022-11,Cardigan,2
+2022-11,Coat,2
+2022-11,Dress,2
+2022-11,Flannel Shirt,5
+2022-11,Flip-Flops,1
+2022-11,Gloves,6
+2022-11,Handbag,7
+2022-11,Hat,6
+2022-11,Hoodie,4
+2022-11,Jacket,2
+2022-11,Jeans,5
+2022-11,Jumpsuit,8
+2022-11,Leggings,3
+2022-11,Loafers,5
+2022-11,Onesie,5
+2022-11,Overalls,8
+2022-11,Pajamas,5
+2022-11,Pants,5
+2022-11,Polo Shirt,5
+2022-11,Poncho,4
+2022-11,Raincoat,2
+2022-11,Romper,8
+2022-11,Sandals,8
+2022-11,Scarf,6
+2022-11,Shorts,6
+2022-11,Skirt,6
+2022-11,Slippers,3
+2022-11,Sneakers,7
+2022-11,Socks,8
+2022-11,Sun Hat,5
+2022-11,Sunglasses,4
+2022-11,Sweater,1
+2022-11,Swimsuit,5
+2022-11,T-shirt,8
+2022-11,Tank Top,6
+2022-11,Tie,3
+2022-11,Trench Coat,4
+2022-11,Trousers,4
+2022-11,Tunic,7
+2022-11,Umbrella,2
+2022-11,Vest,4
+2022-11,Wallet,4
+2022-12,Backpack,6
+2022-12,Belt,8
+2022-12,Blazer,5
+2022-12,Blouse,11
+2022-12,Boots,7
+2022-12,Bowtie,6
+2022-12,Camisole,4
+2022-12,Cardigan,6
+2022-12,Coat,7
+2022-12,Dress,5
+2022-12,Flannel Shirt,8
+2022-12,Flip-Flops,4
+2022-12,Gloves,6
+2022-12,Handbag,6
+2022-12,Hat,5
+2022-12,Hoodie,7
+2022-12,Jacket,5
+2022-12,Jeans,4
+2022-12,Jumpsuit,6
+2022-12,Kimono,11
+2022-12,Leggings,1
+2022-12,Loafers,10
+2022-12,Onesie,10
+2022-12,Overalls,6
+2022-12,Pajamas,8
+2022-12,Pants,9
+2022-12,Polo Shirt,5
+2022-12,Poncho,9
+2022-12,Raincoat,5
+2022-12,Romper,3
+2022-12,Sandals,2
+2022-12,Scarf,4
+2022-12,Shorts,5
+2022-12,Skirt,6
+2022-12,Slippers,5
+2022-12,Sneakers,6
+2022-12,Socks,7
+2022-12,Sun Hat,5
+2022-12,Sunglasses,5
+2022-12,Sweater,8
+2022-12,Swimsuit,5
+2022-12,T-shirt,5
+2022-12,Tank Top,9
+2022-12,Tie,2
+2022-12,Trench Coat,4
+2022-12,Trousers,8
+2022-12,Tunic,5
+2022-12,Umbrella,9
+2022-12,Vest,5
+2022-12,Wallet,8
+2023-01,Backpack,10
+2023-01,Belt,13
+2023-01,Blazer,7
+2023-01,Blouse,6
+2023-01,Boots,7
+2023-01,Bowtie,3
+2023-01,Camisole,7
+2023-01,Cardigan,9
+2023-01,Coat,7
+2023-01,Dress,6
+2023-01,Flannel Shirt,1
+2023-01,Flip-Flops,5
+2023-01,Gloves,5
+2023-01,Handbag,7
+2023-01,Hat,8
+2023-01,Hoodie,6
+2023-01,Jacket,3
+2023-01,Jeans,4
+2023-01,Jumpsuit,6
+2023-01,Kimono,8
+2023-01,Leggings,2
+2023-01,Loafers,7
+2023-01,Onesie,7
+2023-01,Overalls,4
+2023-01,Pajamas,3
+2023-01,Pants,7
+2023-01,Polo Shirt,5
+2023-01,Poncho,3
+2023-01,Raincoat,6
+2023-01,Romper,4
+2023-01,Sandals,5
+2023-01,Scarf,7
+2023-01,Shorts,4
+2023-01,Skirt,7
+2023-01,Slippers,3
+2023-01,Sneakers,8
+2023-01,Socks,3
+2023-01,Sun Hat,2
+2023-01,Sunglasses,6
+2023-01,Sweater,11
+2023-01,Swimsuit,3
+2023-01,T-shirt,6
+2023-01,Tank Top,9
+2023-01,Tie,5
+2023-01,Trench Coat,8
+2023-01,Trousers,5
+2023-01,Tunic,7
+2023-01,Umbrella,6
+2023-01,Vest,5
+2023-01,Wallet,6
+2023-02,Backpack,9
+2023-02,Belt,7
+2023-02,Blazer,2
+2023-02,Blouse,5
+2023-02,Boots,6
+2023-02,Bowtie,2
+2023-02,Camisole,6
+2023-02,Cardigan,8
+2023-02,Coat,4
+2023-02,Dress,4
+2023-02,Flannel Shirt,7
+2023-02,Flip-Flops,2
+2023-02,Gloves,5
+2023-02,Handbag,4
+2023-02,Hat,5
+2023-02,Hoodie,4
+2023-02,Jacket,3
+2023-02,Jeans,6
+2023-02,Jumpsuit,2
+2023-02,Kimono,3
+2023-02,Leggings,6
+2023-02,Loafers,4
+2023-02,Onesie,4
+2023-02,Overalls,4
+2023-02,Pajamas,3
+2023-02,Pants,3
+2023-02,Polo Shirt,4
+2023-02,Poncho,4
+2023-02,Raincoat,7
+2023-02,Romper,6
+2023-02,Sandals,4
+2023-02,Scarf,8
+2023-02,Shorts,8
+2023-02,Skirt,9
+2023-02,Slippers,3
+2023-02,Sneakers,5
+2023-02,Socks,5
+2023-02,Sun Hat,2
+2023-02,Sunglasses,6
+2023-02,Sweater,5
+2023-02,Swimsuit,5
+2023-02,T-shirt,4
+2023-02,Tank Top,5
+2023-02,Tie,9
+2023-02,Trench Coat,5
+2023-02,Trousers,3
+2023-02,Tunic,7
+2023-02,Umbrella,2
+2023-02,Vest,10
+2023-02,Wallet,7
+2023-03,Backpack,4
+2023-03,Belt,7
+2023-03,Blazer,3
+2023-03,Blouse,5
+2023-03,Boots,10
+2023-03,Bowtie,8
+2023-03,Camisole,7
+2023-03,Cardigan,4
+2023-03,Coat,2
+2023-03,Dress,4
+2023-03,Flannel Shirt,9
+2023-03,Flip-Flops,5
+2023-03,Gloves,5
+2023-03,Handbag,3
+2023-03,Hat,5
+2023-03,Hoodie,6
+2023-03,Jacket,7
+2023-03,Jeans,2
+2023-03,Jumpsuit,2
+2023-03,Kimono,6
+2023-03,Leggings,3
+2023-03,Loafers,6
+2023-03,Onesie,1
+2023-03,Overalls,5
+2023-03,Pajamas,9
+2023-03,Pants,5
+2023-03,Polo Shirt,6
+2023-03,Poncho,8
+2023-03,Raincoat,7
+2023-03,Romper,10
+2023-03,Sandals,4
+2023-03,Scarf,4
+2023-03,Shorts,10
+2023-03,Skirt,4
+2023-03,Slippers,7
+2023-03,Sneakers,7
+2023-03,Socks,3
+2023-03,Sun Hat,4
+2023-03,Sunglasses,11
+2023-03,Sweater,5
+2023-03,Swimsuit,6
+2023-03,T-shirt,7
+2023-03,Tank Top,6
+2023-03,Tie,7
+2023-03,Trench Coat,6
+2023-03,Trousers,5
+2023-03,Tunic,4
+2023-03,Umbrella,4
+2023-03,Vest,4
+2023-03,Wallet,5
+2023-04,Backpack,6
+2023-04,Belt,6
+2023-04,Blazer,7
+2023-04,Blouse,7
+2023-04,Boots,5
+2023-04,Bowtie,4
+2023-04,Camisole,4
+2023-04,Cardigan,7
+2023-04,Coat,6
+2023-04,Dress,10
+2023-04,Flannel Shirt,6
+2023-04,Flip-Flops,5
+2023-04,Gloves,5
+2023-04,Handbag,9
+2023-04,Hat,5
+2023-04,Hoodie,4
+2023-04,Jacket,5
+2023-04,Jeans,3
+2023-04,Jumpsuit,5
+2023-04,Kimono,10
+2023-04,Leggings,3
+2023-04,Loafers,5
+2023-04,Onesie,4
+2023-04,Overalls,3
+2023-04,Pajamas,9
+2023-04,Pants,13
+2023-04,Polo Shirt,6
+2023-04,Poncho,9
+2023-04,Raincoat,4
+2023-04,Romper,6
+2023-04,Sandals,5
+2023-04,Scarf,6
+2023-04,Shorts,8
+2023-04,Skirt,9
+2023-04,Slippers,6
+2023-04,Sneakers,2
+2023-04,Socks,5
+2023-04,Sun Hat,8
+2023-04,Sunglasses,9
+2023-04,Sweater,5
+2023-04,Swimsuit,9
+2023-04,T-shirt,4
+2023-04,Tank Top,9
+2023-04,Tie,7
+2023-04,Trench Coat,6
+2023-04,Trousers,1
+2023-04,Tunic,4
+2023-04,Umbrella,4
+2023-04,Vest,2
+2023-04,Wallet,5
+2023-05,Backpack,7
+2023-05,Belt,6
+2023-05,Blazer,7
+2023-05,Blouse,8
+2023-05,Boots,3
+2023-05,Bowtie,4
+2023-05,Camisole,9
+2023-05,Cardigan,8
+2023-05,Coat,5
+2023-05,Dress,4
+2023-05,Flannel Shirt,4
+2023-05,Flip-Flops,4
+2023-05,Gloves,6
+2023-05,Handbag,5
+2023-05,Hat,6
+2023-05,Hoodie,6
+2023-05,Jacket,12
+2023-05,Jeans,10
+2023-05,Jumpsuit,2
+2023-05,Kimono,8
+2023-05,Leggings,7
+2023-05,Loafers,6
+2023-05,Onesie,5
+2023-05,Overalls,6
+2023-05,Pajamas,9
+2023-05,Pants,8
+2023-05,Polo Shirt,6
+2023-05,Poncho,4
+2023-05,Raincoat,8
+2023-05,Romper,2
+2023-05,Sandals,3
+2023-05,Scarf,9
+2023-05,Shorts,8
+2023-05,Skirt,8
+2023-05,Slippers,3
+2023-05,Sneakers,4
+2023-05,Socks,6
+2023-05,Sun Hat,4
+2023-05,Sunglasses,5
+2023-05,Sweater,6
+2023-05,Swimsuit,3
+2023-05,T-shirt,12
+2023-05,Tank Top,11
+2023-05,Tie,6
+2023-05,Trench Coat,6
+2023-05,Trousers,7
+2023-05,Tunic,6
+2023-05,Umbrella,7
+2023-05,Vest,5
+2023-05,Wallet,4
+2023-06,Backpack,2
+2023-06,Belt,8
+2023-06,Blazer,6
+2023-06,Blouse,1
+2023-06,Boots,4
+2023-06,Bowtie,1
+2023-06,Camisole,6
+2023-06,Cardigan,5
+2023-06,Coat,6
+2023-06,Dress,1
+2023-06,Flannel Shirt,1
+2023-06,Flip-Flops,2
+2023-06,Gloves,5
+2023-06,Handbag,5
+2023-06,Hat,2
+2023-06,Hoodie,7
+2023-06,Jacket,2
+2023-06,Jeans,3
+2023-06,Jumpsuit,10
+2023-06,Kimono,7
+2023-06,Leggings,13
+2023-06,Loafers,9
+2023-06,Onesie,8
+2023-06,Overalls,5
+2023-06,Pajamas,6
+2023-06,Pants,5
+2023-06,Polo Shirt,6
+2023-06,Poncho,7
+2023-06,Raincoat,5
+2023-06,Romper,6
+2023-06,Sandals,3
+2023-06,Scarf,6
+2023-06,Shorts,10
+2023-06,Skirt,8
+2023-06,Slippers,9
+2023-06,Sneakers,4
+2023-06,Socks,5
+2023-06,Sun Hat,3
+2023-06,Sunglasses,4
+2023-06,Sweater,5
+2023-06,Swimsuit,3
+2023-06,T-shirt,7
+2023-06,Tank Top,5
+2023-06,Tie,4
+2023-06,Trench Coat,6
+2023-06,Trousers,3
+2023-06,Tunic,2
+2023-06,Umbrella,10
+2023-06,Vest,7
+2023-06,Wallet,4
+2023-07,Backpack,6
+2023-07,Belt,10
+2023-07,Blazer,2
+2023-07,Blouse,6
+2023-07,Boots,4
+2023-07,Bowtie,8
+2023-07,Camisole,7
+2023-07,Cardigan,8
+2023-07,Coat,9
+2023-07,Dress,5
+2023-07,Flannel Shirt,7
+2023-07,Flip-Flops,3
+2023-07,Gloves,5
+2023-07,Handbag,4
+2023-07,Hat,8
+2023-07,Hoodie,6
+2023-07,Jacket,7
+2023-07,Jeans,9
+2023-07,Jumpsuit,5
+2023-07,Kimono,6
+2023-07,Leggings,4
+2023-07,Loafers,7
+2023-07,Onesie,6
+2023-07,Overalls,7
+2023-07,Pajamas,7
+2023-07,Pants,6
+2023-07,Polo Shirt,2
+2023-07,Poncho,7
+2023-07,Raincoat,9
+2023-07,Romper,5
+2023-07,Sandals,4
+2023-07,Scarf,4
+2023-07,Shorts,6
+2023-07,Skirt,10
+2023-07,Slippers,3
+2023-07,Sneakers,4
+2023-07,Socks,9
+2023-07,Sun Hat,5
+2023-07,Sunglasses,2
+2023-07,Sweater,7
+2023-07,Swimsuit,8
+2023-07,T-shirt,6
+2023-07,Tank Top,4
+2023-07,Tie,6
+2023-07,Trench Coat,4
+2023-07,Trousers,5
+2023-07,Tunic,5
+2023-07,Umbrella,10
+2023-07,Vest,8
+2023-07,Wallet,8
+2023-08,Backpack,5
+2023-08,Belt,6
+2023-08,Blazer,8
+2023-08,Blouse,9
+2023-08,Boots,2
+2023-08,Bowtie,3
+2023-08,Camisole,7
+2023-08,Cardigan,4
+2023-08,Coat,7
+2023-08,Dress,4
+2023-08,Flannel Shirt,7
+2023-08,Flip-Flops,5
+2023-08,Gloves,3
+2023-08,Handbag,11
+2023-08,Hat,6
+2023-08,Hoodie,12
+2023-08,Jacket,6
+2023-08,Jeans,4
+2023-08,Jumpsuit,1
+2023-08,Kimono,4
+2023-08,Leggings,6
+2023-08,Loafers,5
+2023-08,Onesie,5
+2023-08,Overalls,6
+2023-08,Pajamas,6
+2023-08,Pants,10
+2023-08,Polo Shirt,4
+2023-08,Poncho,8
+2023-08,Raincoat,4
+2023-08,Romper,6
+2023-08,Sandals,5
+2023-08,Scarf,7
+2023-08,Shorts,7
+2023-08,Skirt,8
+2023-08,Slippers,5
+2023-08,Sneakers,7
+2023-08,Socks,8
+2023-08,Sun Hat,3
+2023-08,Sunglasses,6
+2023-08,Sweater,5
+2023-08,Swimsuit,7
+2023-08,T-shirt,7
+2023-08,Tank Top,8
+2023-08,Tie,1
+2023-08,Trench Coat,7
+2023-08,Trousers,6
+2023-08,Tunic,8
+2023-08,Umbrella,7
+2023-08,Vest,6
+2023-08,Wallet,9
+2023-09,Backpack,4
+2023-09,Belt,7
+2023-09,Blazer,4
+2023-09,Blouse,6
+2023-09,Boots,6
+2023-09,Bowtie,3
+2023-09,Camisole,7
+2023-09,Cardigan,6
+2023-09,Coat,7
+2023-09,Dress,6
+2023-09,Flannel Shirt,4
+2023-09,Flip-Flops,4
+2023-09,Gloves,3
+2023-09,Handbag,6
+2023-09,Hat,7
+2023-09,Hoodie,5
+2023-09,Jacket,6
+2023-09,Jeans,5
+2023-09,Jumpsuit,3
+2023-09,Kimono,4
+2023-09,Leggings,9
+2023-09,Loafers,7
+2023-09,Onesie,7
+2023-09,Overalls,3
+2023-09,Pajamas,7
+2023-09,Pants,6
+2023-09,Polo Shirt,5
+2023-09,Poncho,6
+2023-09,Raincoat,4
+2023-09,Romper,3
+2023-09,Sandals,6
+2023-09,Scarf,3
+2023-09,Shorts,6
+2023-09,Skirt,5
+2023-09,Slippers,6
+2023-09,Sneakers,10
+2023-09,Socks,6
+2023-09,Sun Hat,4
+2023-09,Sunglasses,2
+2023-09,Sweater,2
+2023-09,Swimsuit,7
+2023-09,T-shirt,8
+2023-09,Tie,3
+2023-09,Trench Coat,4
+2023-09,Trousers,5
+2023-09,Tunic,2
+2023-09,Umbrella,3
+2023-09,Vest,6
+2023-09,Wallet,5
+2023-10,Camisole,1
+2023-10,Kimono,1
+2023-10,Pajamas,1
+2023-10,Vest,1
+2023-10,Wallet,1

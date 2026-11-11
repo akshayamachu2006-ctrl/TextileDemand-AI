@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TextileDemand AI | Dashboard</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<div class="app-container">
+
+    <aside class="sidebar">
+        <div class="brand">
+            <h2>Textile<span>Demand</span></h2>
+            <p>AI FORECASTING SYSTEM</p>
+        </div>
+
+        <nav>
+            <a href="#dashboard" class="nav-link active">▦ Dashboard</a>
+            <a href="#sales-analytics" class="nav-link">▤ Sales Analytics</a>
+            <a href="#demand-forecast" class="nav-link">◷ Demand Forecast</a>
+            <a href="#inventory-insights" class="nav-link">▣ Inventory Insights</a>
+            <a href="#reports" class="nav-link">▧ Reports</a>
+        </nav>
+
+        <div class="sidebar-footer">
+            <span class="status-dot"></span>
+            System Dashboard
+        </div>
+    </aside>
+
+    <main class="main-content">
+
+        <header class="topbar">
+            <div>
+                <h1>Demand Intelligence Dashboard</h1>
+                <p>AI-powered fashion retail demand analysis</p>
+            </div>
+
+            <div class="profile">
+                <span class="status-dot"></span>
+                <span>Dashboard</span>
+            </div>
+        </header>
+
+        <!-- DASHBOARD -->
+        <section id="dashboard">
+            <div class="section-heading">
+                <h2>Overview</h2>
+                <p>Your demand forecasting summary</p>
+            </div>
+
+            <div class="stats-grid">
+
+                <div class="stat-card">
+                    <p>Total Transactions</p>
+                    <h2 id="totalTransactions">Loading...</h2>
+                    <span>Processed records</span>
+                </div>
+
+                <div class="stat-card">
+                    <p>Products Analysed</p>
+                    <h2 id="productsAnalysed">Loading...</h2>
+                    <span>Unique fashion items</span>
+                </div>
+
+                <div class="stat-card">
+                    <p>Forecast Demand</p>
+                    <h2 id="forecastDemand">Loading...</h2>
+                    <span>Predicted purchase count</span>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- SALES ANALYTICS -->
+        <section id="sales-analytics" class="dashboard-grid">
+
+            <div class="panel chart-panel">
+                <div class="panel-heading">
+                    <div>
+                        <h2>Monthly Demand Trends</h2>
+                        <p>Historical purchase-count trends</p>
+                    </div>
+                </div>
+
+                <canvas id="demandChart"></canvas>
+            </div>
+
+            <div class="panel">
+                <div class="panel-heading">
+                    <div>
+                        <h2>Top 10 Products</h2>
+                        <p>Products with highest recorded demand</p>
+                    </div>
+                </div>
+
+                <div id="topProducts">
+                    Loading products...
+                </div>
+            </div>
+
+        </section>
+
+        <!-- DEMAND FORECAST -->
+        <section id="demand-forecast" class="panel forecast-panel">
+
+            <div class="panel-heading">
+                <div>
+                    <h2>Future Demand Predictions</h2>
+                    <p>Machine learning forecast by product</p>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Predicted Demand</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="forecastTable">
+                        <tr>
+                            <td colspan="2">Loading predictions...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </section>
+
+        <!-- INVENTORY INSIGHTS -->
+        <section id="inventory-insights" class="panel inventory-panel">
+
+            <div class="panel-heading">
+                <div>
+                    <h2>Inventory Insights</h2>
+                    <p>Stock planning suggestions based on predicted demand</p>
+                </div>
+            </div>
+
+            <div class="inventory-summary stats-grid">
+
+                <div class="stat-card">
+                    <p>High Demand Items</p>
+                    <h2 id="highDemandCount">0</h2>
+                    <span>Top demand group</span>
+                </div>
+
+                <div class="stat-card">
+                    <p>Moderate Demand</p>
+                    <h2 id="moderateDemandCount">0</h2>
+                    <span>Middle demand group</span>
+                </div>
+
+                <div class="stat-card">
+                    <p>Low Demand Items</p>
+                    <h2 id="lowDemandCount">0</h2>
+                    <span>Lower demand group</span>
+                </div>
+
+            </div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Predicted Demand</th>
+                            <th>Suggested Stock</th>
+                            <th>Demand Status</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="inventoryTable">
+                        <tr>
+                            <td colspan="4">Loading inventory insights...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="inventory-note">
+                Note: Suggested stock is a planning estimate based on predicted
+                purchase counts. It is not a measurement of actual available stock.
+            </p>
+
+        </section>
+
+        <!-- REPORTS -->
+        <section id="reports" class="panel reports-panel">
+
+            <div class="panel-heading">
+                <div>
+                    <h2>Reports & Downloads</h2>
+                    <p>Access generated project analysis files</p>
+                </div>
+            </div>
+
+            <div class="report-list">
+
+                <div class="report-item">
+                    <div>
+                        <h3>Future Demand Predictions</h3>
+                        <p>Product-wise predicted purchase counts</p>
+                    </div>
+
+                    <a href="/download/predictions">Download CSV</a>
+                </div>
+
+                <div class="report-item">
+                    <div>
+                        <h3>Monthly Demand Analysis</h3>
+                        <p>Historical monthly demand summary</p>
+                    </div>
+
+                    <a href="/download/monthly-demand">Download CSV</a>
+                </div>
+
+            </div>
+
+        </section>
+
+        <footer class="footer">
+            <p>TextileDemand AI | AI-Based Demand Forecasting System</p>
+        </footer>
+
+    </main>
+</div>
+
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+
+</body>
+</html>

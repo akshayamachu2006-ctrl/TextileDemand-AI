@@ -1,12 +1,43 @@
+
+# Python virtual environment
 .venv/
+venv/
+env/
+
+# Python cache files
 __pycache__/
 *.py[cod]
+*.pyo
+
+# Jupyter files
 .ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Raw datasets (keep original customer-level data private)
 data/raw/*
 !data/raw/.gitkeep
+
+# Processed datasets
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/monthly_item_demand.csv
+
+# Machine learning model files
 models/*
 !models/.gitkeep
+!models/demand_model.pkl
+!models/item_mapping.csv
+
+# Database files
 *.db
-.env
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
